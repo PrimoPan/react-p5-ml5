@@ -1,25 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Canvas from "./canvas"
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+function App(props)
+{
+    return (
+        <div>
+             <div style={{borderStyle:"solid",height:"480px",width:"640px",margin:"0 auto"}}>
+                 <Canvas/>
+             </div>
+        </div>
+    )
 }
-
-export default App;
+export default App

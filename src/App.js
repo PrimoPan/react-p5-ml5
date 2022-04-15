@@ -1,5 +1,4 @@
 import React from "react";
-import Canvas from "./canvas"
 
 function App(props)
 {

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PoseNet-saveData/static/css/main.e6c13ad2.css",
-    "main.js": "/PoseNet-saveData/static/js/main.b86615ea.js",
+    "main.js": "/PoseNet-saveData/static/js/main.8f590097.js",
     "static/js/787.343c7fb5.chunk.js": "/PoseNet-saveData/static/js/787.343c7fb5.chunk.js",
     "index.html": "/PoseNet-saveData/index.html",
     "main.e6c13ad2.css.map": "/PoseNet-saveData/static/css/main.e6c13ad2.css.map",
-    "main.b86615ea.js.map": "/PoseNet-saveData/static/js/main.b86615ea.js.map",
+    "main.8f590097.js.map": "/PoseNet-saveData/static/js/main.8f590097.js.map",
     "787.343c7fb5.chunk.js.map": "/PoseNet-saveData/static/js/787.343c7fb5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b86615ea.js"
+    "static/js/main.8f590097.js"
   ]
 }

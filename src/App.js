@@ -3,12 +3,13 @@ import Canvas from "./canvas"
 
 function App(props)
 {
-    return (
+    return (/*
         <div>
              <div style={{borderStyle:"solid",height:"480px",width:"640px",margin:"0 auto"}}>
                  <Canvas/>
              </div>
-        </div>
+        </div>*/
+        <div>hello world</div>
     )
 
 }

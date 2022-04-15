@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/PoseNet-saveData/static/css/main.e6c13ad2.css",
-    "main.js": "/PoseNet-saveData/static/js/main.8f590097.js",
-    "static/js/787.343c7fb5.chunk.js": "/PoseNet-saveData/static/js/787.343c7fb5.chunk.js",
-    "index.html": "/PoseNet-saveData/index.html",
-    "main.e6c13ad2.css.map": "/PoseNet-saveData/static/css/main.e6c13ad2.css.map",
-    "main.8f590097.js.map": "/PoseNet-saveData/static/js/main.8f590097.js.map",
-    "787.343c7fb5.chunk.js.map": "/PoseNet-saveData/static/js/787.343c7fb5.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.8f590097.js"
-  ]
+  "main.css": "/react-p5-ml5n/static/css/main.f4027b5a.chunk.css",
+  "main.js": "/react-p5-ml5n/static/js/main.aa360b0b.chunk.js",
+  "main.js.map": "/react-p5-ml5n/static/js/main.aa360b0b.chunk.js.map",
+  "static/js/1.521dee7d.chunk.js": "/react-p5-ml5n/static/js/1.521dee7d.chunk.js",
+  "static/js/1.521dee7d.chunk.js.map": "/react-p5-ml5n/static/js/1.521dee7d.chunk.js.map",
+  "static/js/2.e495a233.chunk.js": "/react-p5-ml5n/static/js/2.e495a233.chunk.js",
+  "static/js/2.e495a233.chunk.js.map": "/react-p5-ml5n/static/js/2.e495a233.chunk.js.map",
+  "runtime~main.js": "/react-p5-ml5n/static/js/runtime~main.810ded0f.js",
+  "runtime~main.js.map": "/react-p5-ml5n/static/js/runtime~main.810ded0f.js.map",
+  "static/css/main.f4027b5a.chunk.css.map": "/react-p5-ml5n/static/css/main.f4027b5a.chunk.css.map",
+  "index.html": "/react-p5-ml5n/index.html",
+  "precache-manifest.eb50d46ef3cb94b4c70e30aba76d52d1.js": "/react-p5-ml5n/precache-manifest.eb50d46ef3cb94b4c70e30aba76d52d1.js",
+  "service-worker.js": "/react-p5-ml5n/service-worker.js"
 }
